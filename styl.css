@@ -159,7 +159,7 @@ h1{
 }
 .znam{
     background-color: black;
-    max-width: 640px;
+    max-width: 740px;
     clear: both;
     display: flex;
     overflow: hidden;
@@ -201,34 +201,17 @@ article{
     height: 180px;
     margin-top: -2px;
 }
-.tex{
-    color: white;
-    font-size: 23px;
-    margin-top: 40px;
-    font-family:calibri;
-    margin-left:20vh;
-    letter-spacing: 2px;
-}
-.tex {
-  overflow: hidden; 
-  white-space: nowrap;
-  animation: 
-  typing 4.5s steps(30, end),
-  blink-caret .5s step-end infinite ;
-}
 @keyframes typing {
   from { width: 0% }
   to { width: 110% }
 }
 #nap{
     background-color: black;
-    width: 1280px;
-    margin-left: auto;
-    margin-right: auto; 
     display: flex;
+    margin-left: auto;
+    margin-right:auto;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    float: left;
 }
 #szkola{
     background-image:url(logo/Dark.jpg);
@@ -475,6 +458,8 @@ a{
 }
 .tech{
     overflow: hidden;
+    margin-left:auto;
+    margin-right: auto;
 }
 .port{
     width: 270px;
@@ -866,6 +851,13 @@ img#autor{
     text-transform: capitalize;
 }
 
-
+#and{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 20px;
+    font-family:calibri;
+    letter-spacing: 2px;
+}
 
 
