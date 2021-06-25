@@ -36,8 +36,7 @@ main {
             height:100px;
             background-color: black;
             background-position: center;
-            background-size: cover;
-    
+            background-size: cover;   
         }
 }
 .pasek{
@@ -711,7 +710,6 @@ img#autor{
       -ms-transition: all 1s ease;
           transition: all 1s ease;
 }
- 
 .ob1:hover {
   border-radius: 50%;
   -webkit-transform: rotate(360deg);
@@ -850,7 +848,6 @@ img#autor{
     margin-top: 30px; 
     text-transform: capitalize;
 }
-
 #and{
     color: white;
     text-align: center;
