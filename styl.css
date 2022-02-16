@@ -19,6 +19,7 @@ main {
             background-position: center;
             background-size: cover;
             margin-bottom: -80px;
+           
         }
 }
 @media all and (max-width:990px)
@@ -42,6 +43,7 @@ main {
         }
 }
 .pasek{
+      
     max-width: 1280px;
     height: 104px;
     margin-left: auto;
@@ -59,6 +61,10 @@ nav {
     height: 30px;
     text-align: right;
     width: 100%;
+    
+    
+    
+    
 }
 nav  ul {
     list-style: none;
@@ -85,6 +91,7 @@ nav a:hover {
 {
     div.pasek {
         height: 75px;
+       
     }
     nav a {
         font-size: 17px;
@@ -677,7 +684,7 @@ img#autor{
 .info:hover{
   -ms-transform: rotate(10deg); 
   -webkit-transform: rotate(10deg);  
-  transform: rotate(10deg);     
+  transform: rotate(3deg);     
   border:1px solid red;   
 }
 .ob1{
@@ -833,3 +840,10 @@ img#autor{
     font-family:calibri;
     letter-spacing: 2px;
 }
+article li:hover{
+  -ms-transform: rotate(10deg); 
+  -webkit-transform: rotate(10deg);  
+  transform: rotate(3deg);     
+  border:1px solid red;   
+}
+
