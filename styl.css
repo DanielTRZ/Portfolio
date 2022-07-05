@@ -70,7 +70,7 @@ main {
     background-position: left bottom; 
     display:flex;
     align-items: flex-end;
-     transition: all 1s;
+    transition: all 1s;
     transition-timing: ease-in-out;   
 } 
 .pasek:hover{
