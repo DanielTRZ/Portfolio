@@ -108,7 +108,7 @@ nav a:hover {
 @media all and (max-width:990px)
 {
     div.pasek {
-        height: 75px;
+    height: 75px;
        
    }
     nav a {
