@@ -581,7 +581,7 @@ a{
         margin-bottom:50px;
 }
 #tak{
-    animation: blink 2.5s infinite;
+       animation: blink 2.5s infinite;
     font-size: 35px;
     padding-bottom: 5px;
     margin-right: 45px;
