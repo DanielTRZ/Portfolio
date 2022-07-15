@@ -603,7 +603,7 @@ a{
     opacity:1;
 }
 .thumbnail{
-position: relative;
+    position: relative;
 z-index: 0;
 }
 .thumbnail:hover{
