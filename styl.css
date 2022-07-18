@@ -608,7 +608,7 @@ a{
 }
 .thumbnail:hover{
     background-color: transparent;
-z-index: 50;
+    z-index: 50;
 }
 .thumbnail span{ 
     position: fixed;
