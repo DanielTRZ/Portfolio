@@ -229,7 +229,7 @@ article{
 }
 @keyframes typing {
     from { width: 0% }
-  to { width: 110% }
+    to { width: 110% }
 }
 #nap{
     background-color: black;
