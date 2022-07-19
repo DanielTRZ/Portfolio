@@ -621,7 +621,7 @@ color: black;
 text-decoration: none;
 }
 .thumbnail span img{ 
-border-width: 0;
+    border-width: 0;
 padding:1px;
 }
 .thumbnail:hover span{ 
