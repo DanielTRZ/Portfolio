@@ -622,7 +622,7 @@ text-decoration: none;
 }
 .thumbnail span img{ 
     border-width: 0;
-padding:1px;
+    padding:1px;
 }
 .thumbnail:hover span{ 
 visibility: visible;
