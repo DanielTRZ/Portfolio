@@ -625,7 +625,7 @@ text-decoration: none;
     padding:1px;
 }
 .thumbnail:hover span{ 
-visibility: visible;
+    visibility: visible;
 top:0;
 left: 270px; 
     margin-top: 40px;
