@@ -618,7 +618,7 @@ a{
     border: 1px none white;
     visibility: hidden;
     color: black;
-text-decoration: none;
+    text-decoration: none;
 }
 .thumbnail span img{ 
     border-width: 0;
