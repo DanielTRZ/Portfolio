@@ -657,7 +657,7 @@ left: 270px;
     transition: all 3s;
     transition-timing: ease-in-out;
 } 
-#pro:hover {
+#pro:hover{
     transform: rotate(1080deg);
   }
 #kres{
