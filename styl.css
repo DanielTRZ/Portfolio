@@ -626,7 +626,7 @@ a{
 }
 .thumbnail:hover span{ 
     visibility: visible;
-top:0;
+    top:0;
 left: 270px; 
     margin-top: 40px;
 }
