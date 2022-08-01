@@ -11,7 +11,7 @@ main{
 }
 @media all and (max-width:1930px)
 { 
-     header
+header
         {    
             height: 180px;
             background-color: black;
