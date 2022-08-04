@@ -23,7 +23,7 @@ header{
 @media all and (max-width:990px)
 {
 header{
-            height: 370px;
+     height: 370px;
             background-color: black;
             background-position: center;
             background-size: cover;
