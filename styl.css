@@ -50,7 +50,7 @@ header{
 @media all and (max-width:100px)
 {
 header{
-            height:100px;
+    height:100px;
             background-color: black;
             background-position: center;
             background-size: cover;   
