@@ -112,7 +112,7 @@ nav a:hover{
 }
 @media all and (max-width:700px)
 {
-    nav li {
+    nav li{
         display: block;
         background-color: black;
         border-top: 1px solid #FFFF00;
