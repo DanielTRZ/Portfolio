@@ -137,7 +137,7 @@ section{
     justify-content: space-evenly;
     flex-wrap: wrap; 
 }
-section .blok {  
+section .blok{  
     width: 270px;
     margin:5px; 
 }
