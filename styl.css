@@ -222,7 +222,7 @@ article{
     height: 180px;
     margin-top: -2px;
 }
-@keyframes typing {
+@keyframes typing{
     from { width: 0% }
     to { width: 110% }
 }
