@@ -151,7 +151,7 @@ section div.logo{
     border-top-right-radius: 35px;
     border-top-left-radius: 35px;
 }
-section .fotka {
+section .fotka{
     height: 205px;
     overflow: hidden;
     border: 2px solid url(logo/Dark.jpg);
