@@ -141,7 +141,7 @@ section .blok{
     width: 270px;
     margin:5px; 
 }
-section div.logo {  
+section div.logo{  
     height: 60px;
     background-color:whitesmoke;
     background-image: url("");
