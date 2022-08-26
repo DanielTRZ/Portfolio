@@ -101,8 +101,7 @@ nav a:hover{
     color:orangered;
     font-size: 19px;
 }
-@media all and (max-width:990px)
-{
+@media all and (max-width:990px){
     div.pasek{
     height: 75px;    
    }
