@@ -158,7 +158,7 @@ section .fotka{
     border-bottom-left-radius: 35px;
     border-bottom-right-radius: 35px;
 }
-footer {
+footer{
     background-color:whitesmoke;
     height: 50%; 
     margin-left: auto;
