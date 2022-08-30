@@ -582,7 +582,8 @@ a{
     margin-right: 45px;
 }
 @keyframes blink{
-    to{opacity:.0;}
+    to{opacity:.0;
+}
 }
 .to-top{
     text-align:center;
