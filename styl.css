@@ -291,7 +291,7 @@ h3{
     font-weight: 100;
     margin-top: 20px;
     margin-bottom: 15px;
-   }
+}
 h3:hover{
     -ms-transform: rotate(-10deg); 
     -webkit-transform: rotate (-10deg);  
