@@ -461,7 +461,8 @@ a{
 }
 .linia{
 	margin-left:115px;
-	margin-right:115px;
+		
+margin-right:115px;
 	border:none;
 	border-bottom-style:dashed;
 	border-bottom-color:black;
