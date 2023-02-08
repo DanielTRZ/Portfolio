@@ -28,7 +28,7 @@ header{
     background-size: cover;
 }        
  #pasja{
-    color: red;
+    color: ;
     clear: both;
     margin-left: -90px;
     margin-right: -90px;
@@ -37,12 +37,12 @@ header{
     overflow:hidden;   
 }
 #pasja p{
-    color: red;
+    color:;
     font-family:calibri;
     font-size: 10px;
     text-align: center;
     font-weight: 5;
-    letter-spacing: 0.5px;
+    letter-spacing:0.5px;
 }              
 }
 @media all and (max-width:100px)
@@ -76,9 +76,10 @@ header{
 nav{
     height: 30px;
     text-align: right;
-    width: 100%;           
+    width: 100%; 
+   
 }
-nav  ul{
+nav ul{
     list-style: none;
     padding: 0;
     margin: 0;
@@ -101,7 +102,7 @@ nav a:hover{
 }
 @media all and (max-width:990px){
     div.pasek{
-    height: 75px;    
+    height: 75px;
    }
     nav a{
     font-size: 17px;
@@ -212,7 +213,7 @@ article{
     height: 150px;
     margin-top:25px;
     margin-left: auto;
-    margin-right: auto;  
+    margin-right: auto;
 }
 .techno:hover{
     width: 130px;
@@ -242,7 +243,7 @@ article{
     margin-top: 30px;
     padding-right: 45px;
     border: 2px solid url(logo/Dark.jpg);
-    border-radius: 425px;  
+    border-radius: 95px;  
 }
 h3{
     color: black;
@@ -398,7 +399,7 @@ footer:hover{
 }
 }
 #pasja{
-    color: white;
+    color:;
     clear: both;
     margin-left: auto;
     margin-right: auto;
@@ -407,7 +408,7 @@ footer:hover{
     overflow:hidden;   
 }
 #pasja p{
-    color: white;
+    color:;
     font-family:calibri;
     font-size: 22px;
     text-align: center;
@@ -460,7 +461,7 @@ a{
 }
 .linia{
 	margin-left:115px;		
-margin-right:115px;
+    margin-right:115px;
 	border:none;
 	border-bottom-style:dashed;
 	border-bottom-color:black;
@@ -686,7 +687,7 @@ img#autor{
     margin-left: 160px;
     margin-right: 160px;
     border: 2px solid url(logo/Dark.jpg);
-    border-radius: 600px;
+    border-radius: 30px;
     padding-bottom: 1px;
     padding-top: 3px;
     transition-duration: 2s;    
