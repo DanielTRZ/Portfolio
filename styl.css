@@ -178,7 +178,7 @@ h1{
 }
 .znam{
     background-color: black;
-    max-width: 740px;
+    max-width: 840px;
     clear: both;
     display: flex;
     overflow: hidden;
@@ -189,7 +189,7 @@ h1{
 }
 .ucze{
     background-color: black;
-    max-width: 840px;
+    max-width: 940px;
     clear: both;
     display: flex;
     overflow: hidden;
