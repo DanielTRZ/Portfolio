@@ -237,13 +237,15 @@ article{
     color: black;
     font-family:calibri;
     text-align:center;
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 4%;
+    margin-right: 4%;
     font-weight: 100;
     margin-top: 30px;
     padding-right: 45px;
     border: 2px solid url(logo/Dark.jpg);
     border-radius: 95px;  
+    height:auto;
+    width:auto;
 }
 h3{
     color: black;
@@ -699,11 +701,11 @@ img#autor{
   border:1px solid red;   
 }
 .ob1{
-  -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
+  -webkit-transition: all 3s ease;
+     -moz-transition: all 3s ease;
+       -o-transition: all 3s ease;
+      -ms-transition: all 3s ease;
+          transition: all 3s ease;
 }
 .ob1:hover {
   border-radius: 50%;
@@ -861,4 +863,28 @@ article li:hover{
   -webkit-transform: rotate(10deg);  
   transform: rotate(3deg);     
   border:1px solid red;   
+}
+.pausa{
+    color: white;
+    width: 850px;
+    height: 1px;
+    background: white;
+    margin-top: 12px;
+}
+.paus{
+    color: white;
+    width: 550px;
+    height: 1px;
+    background: white;
+    margin-top: 10px;
+    margin-left: auto;
+}
+.pau{
+    color:black;
+    width: 650px;
+    height: 1px;
+    background: black;
+    margin-top: 10px;
+    margin: auto;
+    margin-bottom: 15px;
 }
