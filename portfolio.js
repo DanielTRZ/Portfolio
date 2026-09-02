@@ -1,5 +1,3 @@
-
-
 $(function(){
     var stt_is_shown = false;
     $(window).scroll(function(){
